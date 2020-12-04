@@ -1,4 +1,4 @@
-# Reseaux_HTTPServer
+# Network Http Server
 Building HTTP servers with Java Synchronous network communication systems at INSA Lyon (4th) 
 
 javac -d bin/ src/http/client/WebPing.java src/http/server/WebServer.java
